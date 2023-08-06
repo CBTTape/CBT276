@@ -1,0 +1,6 @@
+2023-08-06 02:38:52.373469 - Initialized conversion of CBT276
+2023-08-06 02:38:52.401447 - Received CBT.V505.FILE276.PDS from FILE276.XMI 
+2023-08-06 02:38:52.403542 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE276.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:38:52.404607 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE276.PDS, moved to PDS/$$$DOC
+2023-08-06 02:38:52.405616 - Found @FILE276.txt (text/plain) in CBT.V505.FILE276.PDS, moved to PDS/@FILE276
+2023-08-06 02:38:52.406648 - Found CHECKSUM.rexx (text/plain) in CBT.V505.FILE276.PDS, moved to PDS/CHECKSUM
