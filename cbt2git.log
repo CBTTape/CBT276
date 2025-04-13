@@ -1,0 +1,5 @@
+2025-04-13 18:06:05.579433 - Received CBT.V505.FILE276.PDS from FILE276.XMI 
+2025-04-13 18:06:05.580108 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE276.PDS, moved to PDS/$$$#DATE
+2025-04-13 18:06:05.580218 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE276.PDS, moved to PDS/$$$DOC
+2025-04-13 18:06:05.580309 - Found @FILE276.txt (text/plain) in CBT.V505.FILE276.PDS, moved to PDS/@FILE276
+2025-04-13 18:06:05.580388 - Found CHECKSUM.rexx (text/plain) in CBT.V505.FILE276.PDS, moved to PDS/CHECKSUM
